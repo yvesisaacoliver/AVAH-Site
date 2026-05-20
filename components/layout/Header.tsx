@@ -32,7 +32,7 @@ export function Header() {
 
       <div className="container-kh kh-header-inner">
         <Link href="/" className="kh-logo">
-          <Logo variant="color" size={66} decorative />
+          <Logo size={66} decorative />
 
           <span className="kh-logo-text">
             <span className="kh-logo-name">AVAH</span>
