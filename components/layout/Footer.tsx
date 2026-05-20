@@ -12,7 +12,7 @@ export function Footer() {
       <div className="container-kh">
         <div className="kh-footer-grid">
           <div className="kh-footer-brand">
-            <Logo size={48} decorative />
+            <Logo size={48} />
             <p className="kh-footer-tag">{tFooter("tagline")}</p>
           </div>
           <div>
