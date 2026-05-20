@@ -141,6 +141,11 @@
     }
   },
   "donate": {
+    "section": {
+      "eyebrow": "APOYA NUESTRO TRABAJO",
+      "title": "Tu donativo transforma vidas.",
+      "subtitle": "Elige la mejor forma de contribuir con el Instituto AVAH."
+    },
     "hero": {
       "eyebrow": "Apoya nuestro trabajo",
       "headline": "Tu donativo financia el desarrollo de Lighthouse AAC.",
@@ -180,9 +185,17 @@
       "heading": "Estatus fiscal",
       "body": "Instituto Avah es una BC Society registrada. Aún no somos una organización benéfica registrada ante la CRA, por lo que los donativos no son deducibles de impuestos por ahora. Actualizaremos este aviso cuando se conceda el estatus benéfico.",
       "privacyBody": "No recopilamos nada. Stripe y Zeffy siguen sus propias políticas de privacidad.",
-      "privacyLink": "Lee nuestra política de privacidad"
+      "privacyLink": "Lee nuestra política de privacidad",
+      "bullet1": "Ayuda a familias en situación de vulnerabilidad",
+      "bullet2": "Apoya acciones con alimentos, ropa y juguetes",
+      "bullet3": "Fortalece los proyectos continuos de AVAH",
+      "contactHeading": "Preguntas?",
+      "contactEmail": "InstitutoAvah@outlook.com"
     },
     "tabs": {
+      "pix": "PIX",
+      "card": "Tarjeta",
+      "monthly": "Apoyo mensual",
       "soon": "Próximamente"
     },
     "pixAlert": {
@@ -192,6 +205,18 @@
       "copyBtn": "Copiar clave PIX",
       "copiedBtn": "Clave PIX copiada!",
       "footer": "El registro oficial del Instituto AVAH está en curso."
+    },
+    "pix": {
+      "title": "Dona por PIX",
+      "sub": "Rápido, gratuito y sin comisiones.",
+      "keyLabel": "Clave PIX",
+      "copyLabel": "Copiar clave",
+      "copiedLabel": "Copiado!",
+      "stepsLabel": "Cómo pagar por PIX",
+      "step1": "Copia la clave de arriba",
+      "step2": "Abre la app de tu banco y selecciona PIX",
+      "step3": "Pega la clave y confirma la transferencia al Instituto AVAH",
+      "cta": "Copiar clave PIX"
     },
     "questions": {
       "lead": "¿Preguntas? Escribe a",

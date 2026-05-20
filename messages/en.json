@@ -141,6 +141,11 @@
     }
   },
   "donate": {
+    "section": {
+      "eyebrow": "SUPPORT OUR WORK",
+      "title": "Your donation transforms lives.",
+      "subtitle": "Choose the best way to support Instituto AVAH."
+    },
     "hero": {
       "eyebrow": "Support our work",
       "headline": "Your gift funds development of Lighthouse AAC.",
@@ -180,9 +185,17 @@
       "heading": "Tax status",
       "body": "Instituto Avah is a registered BC Society. We are not yet a CRA-registered charity, so donations are not currently tax-deductible. We will update this notice when charitable status is granted.",
       "privacyBody": "We collect nothing. Stripe and Zeffy follow their own privacy policies.",
-      "privacyLink": "Read our privacy policy"
+      "privacyLink": "Read our privacy policy",
+      "bullet1": "Helps families in vulnerable situations",
+      "bullet2": "Supports food, clothing, and toy drives",
+      "bullet3": "Strengthens AVAH's ongoing projects",
+      "contactHeading": "Questions?",
+      "contactEmail": "InstitutoAvah@outlook.com"
     },
     "tabs": {
+      "pix": "PIX",
+      "card": "Card",
+      "monthly": "Monthly support",
       "soon": "Coming soon"
     },
     "pixAlert": {
@@ -192,6 +205,18 @@
       "copyBtn": "Copy PIX key",
       "copiedBtn": "PIX key copied!",
       "footer": "The official registration of Instituto AVAH is in progress."
+    },
+    "pix": {
+      "title": "Donate via PIX",
+      "sub": "Fast, free, and fee-free.",
+      "keyLabel": "PIX Key",
+      "copyLabel": "Copy key",
+      "copiedLabel": "Copied!",
+      "stepsLabel": "How to pay via PIX",
+      "step1": "Copy the key above",
+      "step2": "Open your banking app and select PIX",
+      "step3": "Paste the key and confirm the transfer to Instituto AVAH",
+      "cta": "Copy PIX key"
     },
     "questions": {
       "lead": "Questions? Email",
