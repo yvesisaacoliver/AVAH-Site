@@ -9,7 +9,7 @@ export default function NotFound() {
   return (
     <section className="kh-section kh-not-found">
       <div className="container-kh kh-not-found-prose">
-        <Logo variant="ink" size={88} className="kh-not-found-mark" />
+        <Logo size={88} className="kh-not-found-mark" />
         <div className="eyebrow kh-not-found-eyebrow">{t("eyebrow")}</div>
         <h1 className="h-display kh-not-found-headline">{t("headline")}</h1>
         <p className="kh-not-found-body">{t("body")}</p>
