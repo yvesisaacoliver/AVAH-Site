@@ -5,14 +5,14 @@
   // To deploy production, run `wrangler deploy --env production` (or
   // `npx opennextjs-cloudflare deploy --env production`); the env
   // block below overrides the Worker name and binds the custom domain.
-  "name": "khf-website-preview",
+  "name": "avah",
   "main": ".open-next/worker.js",
   "compatibility_date": "2025-09-23",
   "compatibility_flags": [
     "nodejs_compat",
     "global_fetch_strictly_public"
   ],
-  "account_id": "85a1ba8d066cf83e78f8017c163d0774",
+  "account_id": "a64c76c3bcb93c504efb5c026a52a10f",
   "assets": {
     "directory": ".open-next/assets",
     "binding": "ASSETS",
@@ -39,7 +39,7 @@
       // dashboard route as the source of truth until then to avoid a
       // failed deploy when the zone isn't there yet.
       "name": "khf-website",
-      "account_id": "85a1ba8d066cf83e78f8017c163d0774",
+      "account_id": "a64c76c3bcb93c504efb5c026a52a10f",
       "compatibility_date": "2025-09-23",
       "compatibility_flags": [
         "nodejs_compat",
