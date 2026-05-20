@@ -1,0 +1,13 @@
+# Kinder Horizon Foundation, security disclosure
+#
+# If you have found a vulnerability or a security concern about this
+# website, please email seyed@kinderhorizon.org. We answer every
+# security email personally, in English. Plain text is fine; if you
+# prefer to encrypt, ask and we will provide a key.
+#
+# This file follows RFC 9116 (https://www.rfc-editor.org/rfc/rfc9116).
+
+Contact: mailto:seyed@kinderhorizon.org
+Expires: 2027-04-25T00:00:00.000Z
+Preferred-Languages: en, ar, es, fr-CA, de, pt-BR, zh-Hans
+Canonical: https://kinderhorizon.org/.well-known/security.txt

@@ -1,0 +1,94 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
+
+# testing
+/coverage
+
+# next.js
+/.next/
+/out/
+
+# production
+/build
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# env files (can opt-in for committing if needed)
+.env*
+!.env.local.example
+!.env.production
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+# ============================================================
+# Kinder Horizon Foundation: private context, never commit
+# ============================================================
+
+# Running context document (any dated snapshot)
+kinder-horizon-running-context*.md
+kinder-horizon-context*.md
+
+# Lighthouse AAC product spec docs (PRD, tech spec, default board, vision)
+lighthouse-aac-*.md
+lighthouse-spec*.md
+lighthouse-prd*.md
+lighthouse-vision*.md
+
+# Board minutes, governance, registry artifacts
+board-minutes*.md
+board-meeting*.md
+*-incorporation-*.pdf
+*-incorporation-*.md
+*registry-key*
+*registry-credentials*
+
+# Generic private working directory convention
+_private/
+.private/
+private-notes/
+
+# IDE / editor private state
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS junk
+Thumbs.db
+
+# Cloudflare / OpenNext build artifacts
+.wrangler/
+.open-next/
+worker-configuration.d.ts
+
+# Personal Claude Code overrides (project-level shared config lives in
+# .claude/settings.json and IS committed; .claude/settings.local.json
+# is per-developer and stays local).
+.claude/settings.local.json
+
+# Plan and design notes (live in ~/.claude/plans/, never in repo)
+plan*.md
+PLAN*.md
+designs/_drafts/

@@ -1,0 +1,357 @@
+{
+  "meta": {
+    "siteName": "Instituto Avah",
+    "siteTitle": "Instituto Avah, comunicar é um direito humano.",
+    "siteTagline": "Comunicar é um direito humano, não um recurso premium.",
+    "siteDescription": "Aplicativo de CAA gratuito e de código aberto para crianças não verbais. Comunicar é um direito humano, não um recurso premium.",
+    "ogTagline": "Ferramentas de comunicação gratuitas e de código aberto para crianças não verbais. Feitas por pais. Disponíveis em todo lugar."
+  },
+  "nav": {
+    "home": "Início",
+    "about": "Nossa História",
+    "donate": "Doar",
+    "donateNav": "Sobre Doações",
+    "download": "Lighthouse AAC",
+    "privacy": "Privacidade",
+    "skipToContent": "Ir para o conteúdo principal",
+    "openMenu": "Menu",
+    "closeMenu": "Fechar menu"
+  },
+  "seo": {
+    "homeTitle": "Instituto Avah",
+    "homeDescription": "Aplicativo de CAA gratuito e de código aberto para crianças não verbais. Privacidade em primeiro lugar. Offline. RTL nativo.",
+    "aboutTitle": "Quem somos",
+    "aboutDescription": "O Instituto Avah é uma organização sem fins lucrativos fundada por um casal, pais de uma filha não verbal de 12 anos. Construímos ferramentas de comunicação gratuitas e de código aberto para crianças não verbais em qualquer parte do mundo.",
+    "donateTitle": "Doar",
+    "donateDescription": "Sua doação transforma vidas no Instituto AVAH. Doe por cartão, Zeffy ou transferência bancária. Cada contribuição vai diretamente para construir o aplicativo, independentemente da renda, idioma ou localização da família.",
+    "downloadTitle": "Lighthouse AAC",
+    "downloadDescription": "O Lighthouse AAC, nosso aplicativo de comunicação gratuito e de código aberto para crianças não verbais, entra em beta público no quarto trimestre de 2026. Distribuição via Google Play, Apple App Store, F-Droid e download direto de APK.",
+    "privacyTitle": "Privacidade",
+    "privacyDescription": "Não coletamos nada. Sem analytics, sem cookies (exceto sua preferência de idioma), sem fingerprinting, sem rastreadores de terceiros. Uma lista honesta do que nossos provedores de infraestrutura veem."
+  },
+  "locale": {
+    "switcher": "Idioma",
+    "names": {
+      "en": "English",
+      "es": "Español",
+      "pt-BR": "Português"
+    }
+  },
+  "footer": {
+    "tagline": "Acolher, Valorizar, Transformar. O Instituto AVAH trabalha para levar esperança, dignidade e apoio prático para famílias em situação de vulnerabilidade em São Paulo.",
+    "trustPill": "",
+    "foundationLabel": "O Instituto",
+    "buildLabel": "Contatos",
+    "github": "GitHub",
+    "copyright": "© {year} Instituto Avah.",
+    "license": "Código sob MIT e Apache 2.0."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Instituto Avah · Lighthouse AAC",
+      "headline": "Acolher",
+      "headlineEmph": "Valorizar",
+      "headlineLine3": "Transformar",
+      "primaryCta": "Doar",
+      "secondaryCta": "Conheça Nosso Trabalho",
+      "trustNoTracking": "Sem rastreamento",
+      "trustOpenSource": "MIT + Apache 2.0",
+      "trustOffline": "Funciona offline"
+    },
+    "problem": {
+      "eyebrow": "01 · Nossos Projetos",
+      "headline": "Conheça os projetos onde sua solidariedade se transforma em esperança real.",
+      "pillarOneLabel": "DOAÇÃO DE ALIMENTOS",
+      "pillarOneHeading": "Nutrição e Esperança na Mesa.",
+      "pillarOneBody": "Garantimos segurança alimentar para famílias vulneráveis. Sua ajuda entrega cestas básicas e alimento essencial para quem mais precisa.",
+      "pillarTwoLabel": "DOAÇÃO DE BRINQUEDOS",
+      "pillarTwoHeading": "Resgatando a Alegria de Brincar.",
+      "pillarTwoBody": "Toda criança merece sorrir. Sua doação compra brinquedos que transformam momentos em alegria, magia e memórias inesquecíveis.",
+      "pillarThreeLabel": "DOAÇÃO DE ROUPAS",
+      "pillarThreeHeading": "Aquecendo Corpos e Corações.",
+      "pillarThreeBody": "Sua doação de roupas e calçados promove dignidade. Levamos conforto e proteção para famílias em todas as estações do ano."
+    },
+    "solution": {
+      "eyebrow": "02 · AVAH EM AÇÃO",
+      "headline": "Veja Nosso Trabalho.",
+      "lede": "",
+      "tabletStatus": "12:14 · Hora do almoço · Escola",
+      "legendGlowingLabel": "Doe agora.",
+      "legendGlowingItems": "Mude uma vida hoje.",
+      "legendTime": "Todo domingo, 10h - Venha mudar vidas",
+      "legendLocation": "Santo Amaro e Brooklin - São Paulo",
+      "legendPrivacy": "Sua doação é segura. Transparência total."
+    },
+    "leadership": {
+      "founderOneName": "Ana Oliveira",
+      "founderOneTitle": "",
+      "founderOneBio": "",
+      "founderOneEmail": "avahcontato@gmail.com"
+    },
+    "roadmap": {
+      "eyebrow": "03 · Roteiro",
+      "headline": "Expandindo nossa rede de solidariedade.",
+      "stepZeroMonth": "Mês 0",
+      "stepZeroTitle": "Pesquisa e mapeamento de famílias",
+      "stepOneMonth": "Mês 1",
+      "stepOneTitle": "Primeiras coletas de alimentos, brinquedos e roupas",
+      "stepTwoMonth": "Mês 2",
+      "stepTwoTitle": "Construção dos primeiros kits de doação",
+      "stepThreeMonth": "Mês 3",
+      "stepThreeTitle": "Kits de esperança chegam às primeiras famílias",
+      "stepFourMonth": "Mês 4",
+      "stepFourTitle": "Mais comunidades. Mais famílias. Mais impacto.",
+      "stepFiveMonth": "Mês 5",
+      "stepFiveTitle": "Novos pontos de distribuição pela cidade."
+    }
+  },
+  "about": {
+    "hero": {
+      "eyebrow": "Quem somos",
+      "headline": "Transformando realidades, começando por quem está perto."
+    },
+    "intro": "O Instituto Avah é uma iniciativa sem fins lucrativos fundada por um casal. Somos os pais de uma filha não verbal de 12 anos no espectro autista. O Instituto constrói ferramentas de comunicação gratuitas e de código aberto para crianças como a nossa, em qualquer parte do mundo.",
+    "story": {
+      "heading": "Nossa história",
+      "p1": "O AVAH Instituto nasceu de uma convicção simples: a verdadeira transformação começa perto de nós.",
+      "p2": "Em um mundo onde tantas causas distantes ganham atenção, muitas necessidades continuam existindo de forma silenciosa ao nosso redor, esperando por alguém disposto a enxergar, se importar e agir.",
+      "p3": "Antes de olhar para longe, decidimos olhar para dentro para o nosso país, nossa cidade, nossos bairros e para as pessoas que convivem diariamente com a vulnerabilidade e a falta de oportunidades.",
+      "p4": "Mais do que oferecer suporte, o AVAH surgiu para ser uma ponte entre quem pode ajudar e quem precisa ser alcançado. Nosso propósito é levar dignidade, acolhimento e esperança, provando que grandes mudanças não exigem cruzar oceanos; elas se iniciam na realidade que conhecemos e nas vidas que cruzam o nosso caminho.",
+      "p5": "Idealizado por Ana Oliveira, o instituto carrega a missão de transformar realidades por meio da ação, do cuidado e do compromisso genuíno com quem mais precisa."
+    },
+    "team": {
+      "heading": "Equipe"
+    },
+    "governance": {
+      "heading": "Governança",
+      "body": "O Instituto AVAH é uma organização sem fins lucrativos registrada em São Paulo, Brasil. Somos supervisionados por diretores e conselheiros fiscais dedicados, garantindo que cada doação seja utilizada com responsabilidade e propósito. Operamos com transparência total.",
+      "incorporationLabel": "RAZÃO SOCIAL",
+      "incorporationValue": "Instituto AVAH",
+      "businessNumberLabel": "CNPJ",
+      "businessNumberValue": "Aguardando Receita Federal",
+      "establishedLabel": "Estabelecida",
+      "establishedValue": "17 de abril de 2026",
+      "registeredOfficeLabel": "Sede registrada",
+      "registeredOfficeValue": "Brooklin, São Paulo, Brasil"
+    },
+    "involved": {
+      "heading": "Como participar",
+      "body": "Existem várias formas de ajudar. Você pode doar dinheiro, participar dos encontros de domingo, ser voluntário ou compartilhar nossa missão. Não importa como você escolha ajudar. O que importa é que você está transformando vidas.",
+      "cta": "Escreva para InstitutoAvah@outlook.com"
+    }
+  },
+  "donate": {
+    "section": {
+      "eyebrow": "APOIE NOSSO TRABALHO",
+      "title": "Sua doação transforma vidas.",
+      "subtitle": "Escolha a melhor forma de contribuir com o Instituto AVAH."
+    },
+    "tabs": {
+      "pix": "PIX",
+      "card": "Cartão",
+      "monthly": "Apoio mensal",
+      "soon": "Em breve"
+    },
+    "pixAlert": {
+      "title": "Doações temporariamente apenas via PIX",
+      "body": "Nosso CNPJ está em processo de liberação pela Receita Federal. Enquanto isso, estamos recebendo doações exclusivamente via PIX através da plataforma Vakinha.",
+      "keyLabel": "Chave PIX",
+      "copyBtn": "Copiar chave PIX",
+      "copiedBtn": "Chave PIX copiada!",
+      "footer": "A liberação oficial do Instituto AVAH está em andamento."
+    },
+    "pix": {
+      "title": "Doe por PIX",
+      "sub": "Rápido, gratuito e sem taxas.",
+      "keyLabel": "Chave PIX",
+      "copyLabel": "Copiar chave",
+      "copiedLabel": "Copiado!",
+      "stepsLabel": "Como pagar por PIX",
+      "step1": "Copie a chave acima",
+      "step2": "Abra o app do seu banco e selecione PIX",
+      "step3": "Cole a chave e confirme a transferência para o Instituto AVAH",
+      "cta": "Copiar chave PIX"
+    },
+    "card": {
+      "title": "Doar por cartão",
+      "amountLabel": "Escolha o valor",
+      "customLabel": "Outro valor",
+      "customPlaceholder": "0",
+      "customInputAriaLabel": "Valor personalizado em reais",
+      "minNote": "Valor mínimo: R$5",
+      "errInvalid": "Informe um valor de R$5 ou mais.",
+      "cta": "Continuar doação",
+      "ctaDisabled": "Em breve",
+      "comingSoonNote": "Pagamento por cartão em breve."
+    },
+    "monthly": {
+      "title": "Apoio mensal",
+      "amountLabel": "Escolha o valor mensal",
+      "customLabel": "Outro valor",
+      "customPlaceholder": "0",
+      "customInputAriaLabel": "Valor mensal personalizado em reais",
+      "minNote": "Valor mínimo: R$5/mês",
+      "errInvalid": "Informe um valor de R$5 ou mais.",
+      "cta": "Apoiar mensalmente",
+      "ctaDisabled": "Em breve",
+      "note": "Contribuições mensais ajudam a manter projetos contínuos."
+    },
+    "trust": {
+      "heading": "Por que doar?",
+      "bullet1": "Ajuda famílias em situação de vulnerabilidade",
+      "bullet2": "Apoia ações com alimentos, roupas e brinquedos",
+      "bullet3": "Fortalece projetos contínuos da AVAH",
+      "contactHeading": "Dúvidas?",
+      "contactEmail": "InstitutoAvah@outlook.com"
+    }
+  },
+  "download": {
+    "hero": {
+      "eyebrow": "Lighthouse AAC",
+      "headline": "Beta público no quarto trimestre de 2026.",
+      "sub": "O Lighthouse AAC está em desenvolvimento ativo. Inscreva-se para ser avisado quando as primeiras famílias puderem instalá-lo.",
+      "notifyCta": "Avise-me quando o Lighthouse AAC estiver pronto",
+      "githubCta": "Siga no GitHub"
+    },
+    "tiers": {
+      "heading": "Como o Lighthouse AAC chega às famílias.",
+      "lede": "A capacidade de uma criança se comunicar não deveria depender de geopolítica. As lojas de aplicativos não são infraestrutura neutra; elas bloqueiam o acesso em regiões sob sanções e podem ficar inacessíveis em momentos de instabilidade política. Estamos construindo três camadas de distribuição para que o aplicativo esteja disponível onde for necessário."
+    },
+    "tier1": {
+      "label": "Nível 1",
+      "subLabel": "Lojas de aplicativos, onde estiverem disponíveis",
+      "heading": "Apple App Store e Google Play.",
+      "body": "O caminho padrão para famílias em mercados onde essas lojas funcionam. Gratuito, assinado, com atualizações automáticas.",
+      "channels": [
+        {
+          "name": "Apple App Store",
+          "platform": "iPhone, iPad"
+        },
+        {
+          "name": "Google Play Store",
+          "platform": "Celulares Android, tablets, Chromebooks"
+        }
+      ]
+    },
+    "tier2": {
+      "label": "Nível 2",
+      "subLabel": "Download direto, quando as lojas estão bloqueadas",
+      "heading": "APK direto, F-Droid e GitHub Releases.",
+      "body": "Para famílias em regiões onde Google Play e App Store não estão disponíveis, o aplicativo é publicado como APK Android assinado, com soma SHA-256 publicada. O F-Droid distribui a versão de código aberto para quem prefere o catálogo F-Droid. O GitHub Releases é a fonte de verdade para desenvolvedores.",
+      "channels": [
+        {
+          "name": "APK direto",
+          "platform": "APK Android assinado com soma SHA-256"
+        },
+        {
+          "name": "F-Droid",
+          "platform": "Catálogo Android de código aberto"
+        },
+        {
+          "name": "GitHub Releases",
+          "platform": "Build da fonte por versão"
+        }
+      ]
+    },
+    "tier3": {
+      "label": "Nível 3",
+      "subLabel": "Distribuição offline, quando não há internet",
+      "heading": "Compartilhamento entre aparelhos.",
+      "body": "As famílias podem compartilhar o aplicativo diretamente entre aparelhos por Bluetooth ou Wi-Fi Direct, sem internet em nenhuma etapa. A transferência inclui o aplicativo e os pacotes de vocabulário que a família original escolheu compartilhar. Esse é o caminho que importa em campos de refugiados, em áreas rurais com conectividade intermitente e em regiões com controles rígidos de rede.",
+      "channels": [
+        {
+          "name": "Bluetooth",
+          "platform": "Aparelho a aparelho"
+        },
+        {
+          "name": "Wi-Fi Direct",
+          "platform": "Transferência em rede local"
+        }
+      ]
+    },
+    "verification": {
+      "heading": "Como verificar um download.",
+      "body": "Cada APK direto é publicado com uma soma SHA-256 e uma chave de assinatura publicada. Documentamos como calcular o SHA-256 do arquivo baixado e compará-lo com o valor desta página, para que você confirme que o arquivo é o que publicamos. Instruções de instalação por sideloading em farsi, árabe, russo e espanhol estarão disponíveis no lançamento.",
+      "shaLabel": "Soma SHA-256",
+      "shaPlaceholder": "Publicada com cada versão",
+      "signingKeyLabel": "Impressão digital da chave de assinatura",
+      "signingKeyPlaceholder": "Publicada com a primeira versão"
+    },
+    "openSource": {
+      "heading": "Código aberto desde o primeiro dia.",
+      "body": "Todo o código-fonte do Lighthouse AAC é publicado sob as licenças MIT e Apache 2.0. Você pode lê-lo, compilá-lo, fazer um fork ou contribuir. O quadro de vocabulário padrão usa o sistema de cores Fitzgerald Key e os símbolos ARASAAC.",
+      "githubCta": "Leia o código no GitHub",
+      "issuesCta": "Abra uma issue ou peça um recurso"
+    }
+  },
+  "notFound": {
+    "eyebrow": "404",
+    "headline": "Não conseguimos encontrar essa página.",
+    "body": "A página que você procurava não existe, foi movida ou nunca esteve aqui. A página inicial tem tudo o que você pode estar procurando.",
+    "homeCta": "Voltar ao início",
+    "donateCta": "Doar"
+  },
+  "privacy": {
+    "hero": {
+      "eyebrow": "Privacidade",
+      "headline": "O que coletamos: nada.",
+      "lede": "Não fazemos publicidade. Não vendemos dados. Não carregamos scripts de rastreamento de terceiros neste site. Esta página é a lista honesta do que isso significa na prática."
+    },
+    "lastUpdatedLabel": "Última atualização",
+    "lastUpdatedValue": "25 de abril de 2026",
+    "collect": {
+      "heading": "O que coletamos: nada.",
+      "body": "Sem analytics. Sem cookies, exceto um pequeno cookie de preferência de idioma definido quando você usa o seletor de idioma no cabeçalho. Sem fingerprinting. Sem rastreadores de terceiros.",
+      "explicitIntro": "Especificamente, este site não carrega:",
+      "explicitItems": [
+        "Meta Pixel ou qualquer outra tag publicitária da Meta",
+        "Google Analytics, Google Tag Manager ou qualquer tag de site do Google",
+        "LinkedIn Insight Tag",
+        "TikTok Pixel ou X (Twitter) Pixel",
+        "Hotjar, Amplitude, Mixpanel, Segment, PostHog ou analytics comportamentais comparáveis"
+      ],
+      "gclidNote": "Se você chega a este site clicando em um anúncio de Pesquisa do Google, seu navegador inclui um identificador de clique do Google na URL. Registramos esse identificador em um cookie de origem própria por até 90 dias para que, se você doar depois, possamos avisar ao Google que o anúncio funcionou. Nenhum script de rastreamento do Google é executado neste site, e o cookie não é compartilhado com terceiros, exceto com a API de conversões offline do Google no momento da doação.",
+      "firstPartyAnalyticsNote": "Carregamos um único script de medição de origem própria: Cloudflare Web Analytics. Não usa cookies, não faz fingerprinting, não coleta dados pessoais e não compartilha dados com terceiros. Ele nos diz quais páginas são vistas e de quais países. Usamos porque a Cloudflare já hospeda o site e porque precisamos de uma maneira de saber o que é útil para as famílias. O beacon é servido a partir de static.cloudflareinsights.com."
+    },
+    "providers": {
+      "heading": "O que nossos provedores de infraestrutura veem.",
+      "intro": "Usamos um conjunto pequeno de provedores para manter o site no ar e o fluxo de doações funcionando. Cada um segue sua própria política de privacidade, e nós os linkamos honestamente para que você possa auditá-los por conta própria.",
+      "items": [
+        {
+          "name": "Cloudflare",
+          "role": "Hospeda este site. Os logs de borda incluem dados padrão de requisição (seu endereço IP, agente de usuário, caminho solicitado) para fins de segurança e prevenção de abuso, retidos brevemente conforme a política de privacidade deles.",
+          "policyUrl": "https://www.cloudflare.com/privacypolicy/"
+        },
+        {
+          "name": "Cloudflare Web Analytics",
+          "role": "Medição de visualizações de página de origem própria. Sem cookies, sem fingerprinting, sem dados pessoais, sem compartilhamento com terceiros. Diz quais páginas são vistas e de quais países.",
+          "policyUrl": "https://www.cloudflare.com/web-analytics/"
+        },
+        {
+          "name": "Stripe",
+          "role": "Processa doações por cartão quando você doa por cartão. O Stripe vê suas informações de pagamento e aplica sua política de privacidade global.",
+          "policyUrl": "https://stripe.com/privacy"
+        },
+        {
+          "name": "Zeffy",
+          "role": "Processa doações sem taxas quando você escolhe o Zeffy. A política de privacidade deles se aplica a essa transação.",
+          "policyUrl": "https://www.zeffy.com/en-CA/privacy-policy"
+        },
+        {
+          "name": "Google Workspace",
+          "role": "Gerencia o e-mail no nosso domínio @kinderhorizon.org. Se você nos escrever, sua mensagem fica armazenada no Workspace e a política de privacidade deles se aplica.",
+          "policyUrl": "https://policies.google.com/privacy"
+        }
+      ]
+    },
+    "children": {
+      "heading": "Crianças.",
+      "body": "A Fundação existe para construir ferramentas de comunicação para crianças não verbais, mas este site não é direcionado a crianças e não coleta cientemente dados de crianças. O Lighthouse AAC, o aplicativo em si, roda inteiramente no aparelho da família. O aplicativo não transmite dados da criança, não exige conta e não inclui analytics."
+    },
+    "contact": {
+      "heading": "Contato.",
+      "body": "Para qualquer dúvida sobre privacidade, escreva para seyed@kinderhorizon.org. Respondemos cada e-mail de privacidade pessoalmente.",
+      "cta": "Escreva para InstitutoAvah@outlook.com"
+    }
+  }
+}

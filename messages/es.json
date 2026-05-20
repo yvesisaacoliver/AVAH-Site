@@ -1,0 +1,350 @@
+{
+  "meta": {
+    "siteName": "Instituto Avah",
+    "siteTitle": "Instituto Avah, comunicarse es un derecho humano.",
+    "siteTagline": "Comunicarse es un derecho humano, no una función premium.",
+    "siteDescription": "AAC gratuita y de código abierto para niños no verbales. Comunicarse es un derecho humano, no una función premium.",
+    "ogTagline": "Herramientas de comunicación gratuitas y de código abierto para niños no verbales. Hechas por padres. Disponibles en todas partes."
+  },
+  "nav": {
+    "home": "Inicio",
+    "about": "Quiénes somos",
+    "donate": "Donar",
+    "donateNav": "Donaciones",
+    "download": "Lighthouse AAC",
+    "privacy": "Privacidad",
+    "skipToContent": "Saltar al contenido principal",
+    "openMenu": "Menú",
+    "closeMenu": "Cerrar menú"
+  },
+  "seo": {
+    "homeTitle": "Instituto Avah",
+    "homeDescription": "AAC gratuita y de código abierto para niños no verbales. Privacidad ante todo. Sin conexión. RTL nativo.",
+    "aboutTitle": "Quiénes somos",
+    "aboutDescription": "Instituto Avah es una organización sin fines de lucro fundada por un matrimonio, padres de una hija de 12 años no verbal. Desarrollamos herramientas de comunicación gratuitas y de código abierto para niños no verbales en cualquier parte del mundo.",
+    "donateTitle": "Donar",
+    "donateDescription": "Tu donativo financia el desarrollo de Lighthouse AAC. Dona con tarjeta, por Zeffy o por transferencia bancaria. Cada aporte va directamente a construir la app, sin importar el ingreso, idioma o lugar de la familia.",
+    "downloadTitle": "Lighthouse AAC",
+    "downloadDescription": "Lighthouse AAC, nuestra app de comunicación gratuita y de código abierto para niños no verbales, entra en beta pública en el cuarto trimestre de 2026. Distribución por Google Play, Apple App Store, F-Droid y descarga directa de APK.",
+    "privacyTitle": "Privacidad",
+    "privacyDescription": "No recopilamos nada. Sin analíticas, sin cookies (salvo tu preferencia de idioma), sin fingerprinting, sin rastreadores de terceros. Una lista honesta de lo que ven nuestros proveedores de infraestructura."
+  },
+  "locale": {
+    "switcher": "Idioma",
+    "names": {
+      "en": "English",
+      "es": "Español",
+      "pt-BR": "Português"
+    }
+  },
+  "footer": {
+    "tagline": "AAC gratuita y de código abierto para niños no verbales. Hecha en Langford, B.C., para familias de todo el mundo.",
+    "trustPill": "Sin analíticas. Sin rastreo. Sin scripts de terceros.",
+    "foundationLabel": "La Fundación",
+    "buildLabel": "Construye con nosotros",
+    "github": "GitHub",
+    "copyright": "© {year} Instituto Avah.",
+    "license": "Código bajo MIT y Apache 2.0."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Instituto Avah · Lighthouse AAC",
+      "headline": "Acoger",
+      "headlineEmph": "Valorizar",
+      "headlineLine3": "Transformar",
+      "primaryCta": "Donar",
+      "secondaryCta": "Conoce Lighthouse AAC",
+      "trustNoTracking": "Sin rastreo",
+      "trustOpenSource": "MIT + Apache 2.0",
+      "trustOffline": "Funciona sin conexión"
+    },
+    "problem": {
+      "eyebrow": "01 · El problema",
+      "headline": "Tres barreras separan a un niño no verbal de su primera palabra.",
+      "pillarOneLabel": "Entre $200 y $400",
+      "pillarOneHeading": "El costo es una barrera.",
+      "pillarOneBody": "Las apps de AAC líderes cuestan entre $200 y $400. Muchas familias no pueden pagar la voz de su hijo.",
+      "pillarTwoLabel": "4 carpetas de profundidad",
+      "pillarTwoHeading": "Las interfaces estáticas abruman.",
+      "pillarTwoBody": "Un niño que quiere decir 'tengo hambre' navega cuatro carpetas anidadas. El momento se pierde. La frustración se vuelve crisis.",
+      "pillarThreeLabel": "Inteligente no es amable",
+      "pillarThreeHeading": "Las funciones inteligentes empeoran las cosas.",
+      "pillarThreeBody": "Algunas apps mueven los botones. Para un niño que depende de la memoria muscular, un botón que se mueve es una voz silenciada."
+    },
+    "solution": {
+      "eyebrow": "02 · Nuestro enfoque",
+      "headline": "Aumentar, no reorganizar.",
+      "lede": "Cuando un niño abre la app en casa por la mañana, 'desayuno' y 'mochila' brillan suavemente. En la escuela a la hora del almuerzo, surgen 'hambre' y 'agua'. El vocabulario completo está siempre ahí, siempre en el mismo lugar. La app ilumina el camino más probable, nunca lo impone.",
+      "tabletStatus": "12:14 · Almuerzo · Escuela",
+      "legendGlowingLabel": "Brillan ahora:",
+      "legendGlowingItems": "Hambre, Agua, Ayuda, Baño",
+      "legendTime": "12:14 PM · hora de almuerzo en día de semana",
+      "legendLocation": "Escuela (contexto basado en Wi-Fi)",
+      "legendPrivacy": "La inferencia ocurre en el dispositivo. Ningún dato sale de la tablet."
+    },
+    "leadership": {
+      "founderOneName": "Ana Oliveira",
+      "founderOneTitle": "",
+      "founderOneBio": "",
+      "founderOneEmail": "avahcontato@gmail.com"
+    },
+    "roadmap": {
+      "eyebrow": "05 · Hoja de ruta",
+      "headline": "Beta MVP en el cuarto trimestre de 2026.",
+      "stepZeroMonth": "Mes 0",
+      "stepZeroTitle": "Investigación con familias",
+      "stepOneMonth": "Mes 1",
+      "stepOneTitle": "Tablero AAC estático con RTL",
+      "stepTwoMonth": "Mes 2",
+      "stepTwoTitle": "Comienza el registro de contexto",
+      "stepThreeMonth": "Mes 3",
+      "stepThreeTitle": "Se activa el brillo predictivo",
+      "stepFourMonth": "Mes 4",
+      "stepFourTitle": "Alfa cerrada con 3 a 5 familias",
+      "stepFiveMonth": "Mes 5",
+      "stepFiveTitle": "Beta pública en todos los canales de distribución"
+    }
+  },
+  "about": {
+    "hero": {
+      "eyebrow": "Quiénes somos",
+      "headline": "Hecha por padres que no podían esperar."
+    },
+    "intro": "Instituto Avah es una iniciativa sin fines de lucro fundada por un matrimonio. Somos los padres de una hija de 12 años no verbal en el espectro autista. El Instituto construye herramientas de comunicación gratuitas y de código abierto para niños como la nuestra, en cualquier parte del mundo.",
+    "story": {
+      "heading": "Nuestra historia",
+      "p1": "El AVAH Instituto nació de una convicción simple: la verdadera transformación comienza cerca de nosotros.",
+      "p2": "En un mundo donde tantas causas distantes llaman la atención, muchas necesidades continúan existiendo en silencio a nuestro alrededor, esperando a alguien dispuesto a ver, importarse y actuar.",
+      "p3": "Antes de mirar lejos, decidimos mirar hacia adentro, a nuestro país, nuestra ciudad, nuestros barrios y a las personas que conviven diariamente con la vulnerabilidad y la falta de oportunidades.",
+      "p4": "Más que ofrecer apoyo, AVAH surgió para ser un puente entre quien puede ayudar y quien necesita ser alcanzado. Nuestro propósito es llevar dignidad, acogida y esperanza, probando que los grandes cambios no exigen cruzar océanos; comienzan en la realidad que conocemos y en las vidas que cruzan nuestro camino.",
+      "p5": "Fundado por Ana Oliveira, el instituto lleva la misión de transformar realidades a través de la acción, el cuidado y el compromiso genuino con quienes más lo necesitan."
+    },
+    "team": {
+      "heading": "Equipo"
+    },
+    "governance": {
+      "heading": "Gobernanza",
+      "body": "Instituto Avah está constituido bajo la Societies Act de Columbia Británica como una sociedad sin financiación de miembros. Cuatro directores supervisan la Fundación, incluidos los dos cofundadores y dos directores independientes. La Fundación opera bajo los BC Model Bylaws. Todo el software se publica bajo las licencias MIT y Apache 2.0.",
+      "incorporationLabel": "Constitución",
+      "incorporationValue": "Instituto AVAH",
+      "businessNumberLabel": "Número de empresa",
+      "businessNumberValue": "Aguardando Receita Federal",
+      "establishedLabel": "Establecida",
+      "establishedValue": "17 de abril de 2026",
+      "registeredOfficeLabel": "Domicilio registrado",
+      "registeredOfficeValue": "Langford, Columbia Británica, Canadá"
+    },
+    "involved": {
+      "heading": "Cómo colaborar",
+      "body": "Buscamos familias dispuestas a probar versiones tempranas y dar retroalimentación, fonoaudiólogos y patólogos del habla que asesoren sobre buenas prácticas clínicas, traductores para más idiomas, y financiadores que cubran tarifas de tiendas de apps, auditorías de accesibilidad y los costos mínimos de hosting.",
+      "cta": "Escribe a seyed@kinderhorizon.org"
+    }
+  },
+  "donate": {
+    "hero": {
+      "eyebrow": "Apoya nuestro trabajo",
+      "headline": "Tu donativo financia el desarrollo de Lighthouse AAC.",
+      "sub": "Cada dólar va a la ingeniería, la traducción y la entrega de esta app a los dispositivos que la necesitan. Tres formas de donar. Elige la que mejor te quede."
+    },
+    "comingSoon": {
+      "title": "Las donaciones se activarán pronto",
+      "body": "Estamos terminando de abrir la cuenta bancaria de la BC Society. El formulario está totalmente diseñado y listo, pero el botón de envío permanece desactivado hasta que las transacciones puedan liquidarse. Lo activaremos en el transcurso de la semana. Gracias por tu paciencia."
+    },
+    "stripe": {
+      "heading": "Donar con tarjeta",
+      "sub": "Stripe procesa el cargo. Solo vemos lo que tú decides compartir.",
+      "donationTypeLabel": "Tipo de donativo",
+      "oneTime": "Una sola vez",
+      "monthly": "Mensual",
+      "amountLabel": "Cantidad",
+      "currencyLabel": "Moneda",
+      "custom": "Otra cantidad",
+      "customInputAriaLabel": "Cantidad personalizada",
+      "customPlaceholder": "Cantidad",
+      "minNote": "El donativo mínimo es de $5.",
+      "errInvalid": "Introduce una cantidad de $5 o más.",
+      "errTurnstile": "Completa la verificación humana antes de enviar.",
+      "errNetwork": "No pudimos conectar con el servidor. Verifica tu conexión e inténtalo de nuevo.",
+      "cardDetailsLabel": "Datos de la tarjeta",
+      "cardPlaceholder": "1234 1234 1234 1234",
+      "expiryPlaceholder": "MM / AA",
+      "cvcPlaceholder": "CVC",
+      "poweredByStripe": "Procesado por Stripe",
+      "turnstilePrompt": "Verifica que eres humano",
+      "turnstileMeta": "Cloudflare Turnstile, sin cookies",
+      "submit": "Donar",
+      "submitDisabled": "Las donaciones abren esta semana",
+      "inlineTrust": "Stripe y Cloudflare Turnstile son los únicos servicios de terceros en este flujo. Sin rastreadores de marketing, sin analíticas, sin Meta Pixel."
+    },
+    "trust": {
+      "heading": "Estatus fiscal",
+      "body": "Instituto Avah es una BC Society registrada. Aún no somos una organización benéfica registrada ante la CRA, por lo que los donativos no son deducibles de impuestos por ahora. Actualizaremos este aviso cuando se conceda el estatus benéfico.",
+      "privacyBody": "No recopilamos nada. Stripe y Zeffy siguen sus propias políticas de privacidad.",
+      "privacyLink": "Lee nuestra política de privacidad"
+    },
+    "tabs": {
+      "soon": "Próximamente"
+    },
+    "pixAlert": {
+      "title": "Donaciones temporalmente solo por PIX",
+      "body": "Nuestro CNPJ está en proceso de registro ante la Receita Federal. Mientras tanto, recibimos donaciones exclusivamente por PIX a través de la plataforma Vakinha.",
+      "keyLabel": "Clave PIX",
+      "copyBtn": "Copiar clave PIX",
+      "copiedBtn": "Clave PIX copiada!",
+      "footer": "El registro oficial del Instituto AVAH está en curso."
+    },
+    "questions": {
+      "lead": "¿Preguntas? Escribe a",
+      "email": "seyed@kinderhorizon.org"
+    }
+  },
+  "download": {
+    "hero": {
+      "eyebrow": "Lighthouse AAC",
+      "headline": "Beta pública en el cuarto trimestre de 2026.",
+      "sub": "Lighthouse AAC está en desarrollo activo. Apúntate para recibir aviso cuando las primeras familias puedan instalarla.",
+      "notifyCta": "Avísame cuando Lighthouse AAC esté lista",
+      "githubCta": "Síguenos en GitHub"
+    },
+    "tiers": {
+      "heading": "Cómo Lighthouse AAC llegará a las familias.",
+      "lede": "La capacidad de un niño para comunicarse no debería depender de la geopolítica. Las tiendas de apps no son infraestructura neutral; bloquean el acceso en regiones sancionadas y pueden volverse inaccesibles durante crisis políticas. Construimos tres capas de distribución para que la app esté disponible en todos los lugares donde haga falta."
+    },
+    "tier1": {
+      "label": "Nivel 1",
+      "subLabel": "Tiendas de apps, donde estén disponibles",
+      "heading": "Apple App Store y Google Play.",
+      "body": "El camino por defecto para familias en mercados donde estas tiendas funcionan. Gratis, firmada, con actualizaciones automáticas.",
+      "channels": [
+        {
+          "name": "Apple App Store",
+          "platform": "iPhone, iPad"
+        },
+        {
+          "name": "Google Play Store",
+          "platform": "Teléfonos Android, tablets, Chromebooks"
+        }
+      ]
+    },
+    "tier2": {
+      "label": "Nivel 2",
+      "subLabel": "Descarga directa, cuando las tiendas están bloqueadas",
+      "heading": "APK directo, F-Droid y GitHub Releases.",
+      "body": "Para familias en regiones donde Google Play y la App Store no están disponibles, la app se publica como un APK Android firmado, con su suma SHA-256 publicada. F-Droid lleva la versión de código abierto para quienes prefieren ese catálogo. GitHub Releases es la fuente de verdad para desarrolladores.",
+      "channels": [
+        {
+          "name": "APK directo",
+          "platform": "APK Android firmado con suma SHA-256"
+        },
+        {
+          "name": "F-Droid",
+          "platform": "Catálogo Android de código abierto"
+        },
+        {
+          "name": "GitHub Releases",
+          "platform": "Compilación de código fuente por versión"
+        }
+      ]
+    },
+    "tier3": {
+      "label": "Nivel 3",
+      "subLabel": "Distribución sin conexión, cuando no hay internet",
+      "heading": "Compartir entre dispositivos.",
+      "body": "Las familias pueden compartir la app directamente entre dispositivos por Bluetooth o Wi-Fi Direct, sin internet en ningún paso. La transferencia incluye la app y los paquetes de vocabulario que la familia original haya elegido compartir. Es el camino que importa en campos de refugiados, en zonas rurales con conectividad intermitente y en regiones con controles estrictos de red.",
+      "channels": [
+        {
+          "name": "Bluetooth",
+          "platform": "De dispositivo a dispositivo"
+        },
+        {
+          "name": "Wi-Fi Direct",
+          "platform": "Transferencia en red local"
+        }
+      ]
+    },
+    "verification": {
+      "heading": "Cómo verificar una descarga.",
+      "body": "Cada APK directo se publica con una suma SHA-256 y una clave de firma publicada. Documentamos cómo calcular el SHA-256 del archivo descargado y compararlo con el valor de esta página, para que confirmes que el archivo que tienes es el que publicamos. Las instrucciones de instalación lateral en farsi, árabe, ruso y español estarán disponibles en el lanzamiento.",
+      "shaLabel": "Suma SHA-256",
+      "shaPlaceholder": "Publicada con cada versión",
+      "signingKeyLabel": "Huella de la clave de firma",
+      "signingKeyPlaceholder": "Publicada con la primera versión"
+    },
+    "openSource": {
+      "heading": "De código abierto desde el primer día.",
+      "body": "El código fuente completo de Lighthouse AAC se publica bajo las licencias MIT y Apache 2.0. Puedes leerlo, compilarlo, hacer un fork o contribuir. El tablero de vocabulario por defecto utiliza el sistema de colores Fitzgerald Key y los símbolos ARASAAC.",
+      "githubCta": "Lee el código en GitHub",
+      "issuesCta": "Reporta un problema o solicita una función"
+    }
+  },
+  "notFound": {
+    "eyebrow": "404",
+    "headline": "No pudimos encontrar esa página.",
+    "body": "La página que buscabas no existe, ha cambiado de lugar o nunca estuvo aquí. La página de inicio tiene todo lo que podrías estar buscando.",
+    "homeCta": "Volver al inicio",
+    "donateCta": "Donar"
+  },
+  "privacy": {
+    "hero": {
+      "eyebrow": "Privacidad",
+      "headline": "Lo que recopilamos: nada.",
+      "lede": "No hacemos publicidad. No vendemos datos. No cargamos scripts de rastreo de terceros en este sitio. Esta página es la lista honesta de lo que eso significa en la práctica."
+    },
+    "lastUpdatedLabel": "Última actualización",
+    "lastUpdatedValue": "25 de abril de 2026",
+    "collect": {
+      "heading": "Lo que recopilamos: nada.",
+      "body": "Sin analíticas. Sin cookies, salvo una pequeña cookie de preferencia de idioma que se establece cuando usas el selector de idioma del encabezado. Sin fingerprinting. Sin rastreadores de terceros.",
+      "explicitIntro": "En concreto, este sitio no carga:",
+      "explicitItems": [
+        "Meta Pixel ni ninguna otra etiqueta publicitaria de Meta",
+        "Google Analytics, Google Tag Manager ni ninguna etiqueta de sitio de Google",
+        "LinkedIn Insight Tag",
+        "TikTok Pixel ni X (Twitter) Pixel",
+        "Hotjar, Amplitude, Mixpanel, Segment, PostHog ni analíticas de comportamiento similares"
+      ],
+      "gclidNote": "Si llegas a este sitio haciendo clic en un anuncio de Búsqueda de Google, tu navegador incluye un identificador de clic de Google en la URL. Registramos ese identificador en una cookie de origen propio durante un máximo de 90 días para que, si más adelante donas, podamos avisar a Google de que el anuncio funcionó. En este sitio no se ejecuta ningún script de rastreo de Google y la cookie no se comparte con terceros, salvo con la API de conversiones offline de Google en el momento de la donación.",
+      "firstPartyAnalyticsNote": "Sí cargamos un script de medición de origen propio: Cloudflare Web Analytics. No usa cookies, no hace fingerprinting, no recopila datos personales y no comparte datos con terceros. Solo nos dice qué páginas se ven y desde qué países. Lo usamos porque Cloudflare ya aloja el sitio y porque necesitamos saber qué resulta útil para las familias. La baliza se sirve desde static.cloudflareinsights.com."
+    },
+    "providers": {
+      "heading": "Lo que ven nuestros proveedores de infraestructura.",
+      "intro": "Usamos un conjunto pequeño de proveedores para mantener el sitio en línea y el flujo de donaciones funcionando. Cada uno sigue su propia política de privacidad, y los enlazamos honestamente para que los puedas auditar tú mismo.",
+      "items": [
+        {
+          "name": "Cloudflare",
+          "role": "Aloja este sitio. Sus registros de borde incluyen datos de petición estándar (tu dirección IP, agente de usuario, ruta solicitada) para seguridad y prevención de abuso, retenidos brevemente según su política de privacidad.",
+          "policyUrl": "https://www.cloudflare.com/privacypolicy/"
+        },
+        {
+          "name": "Cloudflare Web Analytics",
+          "role": "Medición de vistas de página de origen propio. Sin cookies, sin fingerprinting, sin datos personales, sin compartir con terceros. Solo nos dice qué páginas se ven y desde qué países.",
+          "policyUrl": "https://www.cloudflare.com/web-analytics/"
+        },
+        {
+          "name": "Stripe",
+          "role": "Procesa donativos con tarjeta cuando donas con tarjeta. Stripe ve tu información de pago y aplica su política de privacidad global.",
+          "policyUrl": "https://stripe.com/privacy"
+        },
+        {
+          "name": "Zeffy",
+          "role": "Procesa donativos sin comisiones cuando eliges Zeffy. Su política de privacidad aplica a esa transacción.",
+          "policyUrl": "https://www.zeffy.com/en-CA/privacy-policy"
+        },
+        {
+          "name": "Google Workspace",
+          "role": "Gestiona el correo en nuestro dominio @kinderhorizon.org. Si nos escribes, tu mensaje queda almacenado en Workspace y aplica su política de privacidad.",
+          "policyUrl": "https://policies.google.com/privacy"
+        }
+      ]
+    },
+    "children": {
+      "heading": "Niños.",
+      "body": "La Fundación existe para construir herramientas de comunicación para niños no verbales, pero este sitio no está dirigido a niños y no recopila a sabiendas datos de niños. Lighthouse AAC, la app en sí, se ejecuta por completo en el dispositivo de la familia. La app no transmite datos del niño, no requiere cuenta y no incluye analíticas."
+    },
+    "contact": {
+      "heading": "Contacto.",
+      "body": "Para cualquier pregunta sobre privacidad, escribe a seyed@kinderhorizon.org. Respondemos cada correo de privacidad en persona.",
+      "cta": "Escribe a seyed@kinderhorizon.org"
+    }
+  }
+}

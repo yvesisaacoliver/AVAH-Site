@@ -1,0 +1,350 @@
+{
+  "meta": {
+    "siteName": "Instituto Avah",
+    "siteTitle": "Instituto Avah, Communication is a human right.",
+    "siteTagline": "Communication is a human right, not a premium feature.",
+    "siteDescription": "Free, open-source AAC for non-verbal children. Communication is a human right, not a premium feature.",
+    "ogTagline": "Free, open-source communication tools for non-verbal children. Built by parents. Available everywhere."
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "donate": "Donate",
+    "donateNav": "Donations",
+    "download": "Lighthouse AAC",
+    "privacy": "Privacy",
+    "skipToContent": "Skip to main content",
+    "openMenu": "Menu",
+    "closeMenu": "Close menu"
+  },
+  "seo": {
+    "homeTitle": "Instituto Avah",
+    "homeDescription": "Free, open-source AAC for non-verbal children. Privacy-first. Offline. RTL-native.",
+    "aboutTitle": "About",
+    "aboutDescription": "Instituto Avah is a non-profit founded by a husband-and-wife team of parents to a non-verbal 12-year-old daughter. We build free, open-source communication tools for non-verbal children, anywhere in the world.",
+    "donateTitle": "Donate",
+    "donateDescription": "Your gift funds development of Lighthouse AAC. Donate via card, Zeffy, or wire. Every contribution goes directly to building the app, regardless of family income, language, or location.",
+    "downloadTitle": "Lighthouse AAC",
+    "downloadDescription": "Lighthouse AAC, our free open-source communication app for non-verbal children, enters public beta in Q4 2026. Distribution via Google Play, Apple App Store, F-Droid, and direct APK download.",
+    "privacyTitle": "Privacy",
+    "privacyDescription": "We collect nothing. No analytics, no cookies (except your language preference), no fingerprinting, no third-party trackers. An honest list of what our infrastructure providers see."
+  },
+  "locale": {
+    "switcher": "Language",
+    "names": {
+      "en": "English",
+      "es": "Español",
+      "pt-BR": "Português"
+    }
+  },
+  "footer": {
+    "tagline": "Free, open-source AAC for non-verbal children. Built in Langford, B.C., for families everywhere.",
+    "trustPill": "No analytics. No tracking. No third-party scripts.",
+    "foundationLabel": "Foundation",
+    "buildLabel": "Build with us",
+    "github": "GitHub",
+    "copyright": "© {year} Instituto Avah.",
+    "license": "Code under MIT and Apache 2.0."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Instituto Avah · Lighthouse AAC",
+      "headline": "Welcome",
+      "headlineEmph": "Value",
+      "headlineLine3": "Transform",
+      "primaryCta": "Donate",
+      "secondaryCta": "Learn about Lighthouse AAC",
+      "trustNoTracking": "No tracking",
+      "trustOpenSource": "MIT + Apache 2.0",
+      "trustOffline": "Works offline"
+    },
+    "problem": {
+      "eyebrow": "01 · The problem",
+      "headline": "Three barriers stand between a non-verbal child and their first word.",
+      "pillarOneLabel": "$200 to $400",
+      "pillarOneHeading": "Cost is a barrier.",
+      "pillarOneBody": "Leading AAC apps cost $200 to $400. Many families cannot afford a child's voice.",
+      "pillarTwoLabel": "4 folders deep",
+      "pillarTwoHeading": "Static interfaces overwhelm.",
+      "pillarTwoBody": "A child wanting 'I am hungry' navigates four nested folders. The moment passes. Frustration becomes meltdown.",
+      "pillarThreeLabel": "Smart is not kind",
+      "pillarThreeHeading": "Smart features make it worse.",
+      "pillarThreeBody": "Some apps move buttons. For a child who relies on muscle memory, a moving button is a silenced voice."
+    },
+    "solution": {
+      "eyebrow": "02 · Our approach",
+      "headline": "Augment, don’t rearrange.",
+      "lede": "When a child opens the app at home in the morning, 'breakfast' and 'backpack' subtly glow. At school during lunch, 'hungry' and 'water' surface instead. The full vocabulary is always there, always in the same place. The app illuminates the most likely path forward, never insists.",
+      "tabletStatus": "12:14 · Lunchtime · School",
+      "legendGlowingLabel": "Glowing now:",
+      "legendGlowingItems": "Hungry, Water, Help, Bathroom",
+      "legendTime": "12:14 PM · weekday lunch hour",
+      "legendLocation": "School (Wi-Fi based context)",
+      "legendPrivacy": "Inference runs on-device. No data leaves the tablet."
+    },
+    "leadership": {
+      "founderOneName": "Ana Oliveira",
+      "founderOneTitle": "",
+      "founderOneBio": "",
+      "founderOneEmail": "avahcontato@gmail.com"
+    },
+    "roadmap": {
+      "eyebrow": "05 · Roadmap",
+      "headline": "MVP beta, Q4 2026.",
+      "stepZeroMonth": "Month 0",
+      "stepZeroTitle": "User research with families",
+      "stepOneMonth": "Month 1",
+      "stepOneTitle": "Static AAC board with RTL",
+      "stepTwoMonth": "Month 2",
+      "stepTwoTitle": "Context logging begins",
+      "stepThreeMonth": "Month 3",
+      "stepThreeTitle": "Predictive Glow activates",
+      "stepFourMonth": "Month 4",
+      "stepFourTitle": "Closed alpha with 3 to 5 families",
+      "stepFiveMonth": "Month 5",
+      "stepFiveTitle": "Public beta on all distribution channels"
+    }
+  },
+  "about": {
+    "hero": {
+      "eyebrow": "Who we are",
+      "headline": "Built by parents who could not wait."
+    },
+    "intro": "Instituto Avah is a non-profit initiative founded by a husband-and-wife team. We are the parents of a non-verbal 12-year-old daughter on the autism spectrum. The Foundation builds free, open-source communication tools for children like ours, anywhere in the world.",
+    "story": {
+      "heading": "Our story",
+      "p1": "AVAH Institute was born from a simple conviction: true transformation begins close to us.",
+      "p2": "In a world where so many distant causes draw attention, many needs continue to exist silently around us, waiting for someone willing to see, care, and act.",
+      "p3": "Before looking far away, we chose to look inward, to our country, our city, our neighborhoods, and the people who live daily with vulnerability and lack of opportunity.",
+      "p4": "More than providing support, AVAH was created to be a bridge between those who can help and those who need to be reached. Our purpose is to bring dignity, welcome, and hope, proving that great changes do not require crossing oceans; they begin in the reality we know and in the lives that cross our path.",
+      "p5": "Founded by Ana Oliveira, the institute carries the mission of transforming realities through action, care, and genuine commitment to those who need it most."
+    },
+    "team": {
+      "heading": "Team"
+    },
+    "governance": {
+      "heading": "Governance",
+      "body": "Instituto Avah is incorporated under the Societies Act of British Columbia as a non-member-funded society. Four directors oversee the Foundation, including the two co-founders and two independent directors. The Foundation operates under the BC Model Bylaws. All software is released under the MIT and Apache 2.0 licenses.",
+      "incorporationLabel": "Incorporation",
+      "incorporationValue": "Instituto AVAH",
+      "businessNumberLabel": "Business Number",
+      "businessNumberValue": "Aguardando Receita Federal",
+      "establishedLabel": "Established",
+      "establishedValue": "April 17, 2026",
+      "registeredOfficeLabel": "Registered office",
+      "registeredOfficeValue": "Langford, British Columbia, Canada"
+    },
+    "involved": {
+      "heading": "Get involved",
+      "body": "We are looking for families willing to test early builds and provide feedback, speech-language pathologists to advise on clinical best practices, translators for additional languages, and grant funders to cover app store fees, accessibility audits, and minimal hosting costs.",
+      "cta": "Email seyed@kinderhorizon.org"
+    }
+  },
+  "donate": {
+    "hero": {
+      "eyebrow": "Support our work",
+      "headline": "Your gift funds development of Lighthouse AAC.",
+      "sub": "Every dollar goes to engineering, translation, and putting this app on devices that need it. Three ways to give. Pick the one that fits."
+    },
+    "comingSoon": {
+      "title": "Donations launching shortly",
+      "body": "Our BC Society bank account is being finalized. The form below is fully designed and ready, but the submit button is disabled until charges can settle. We will quietly enable it within the week. Thanks for your patience."
+    },
+    "stripe": {
+      "heading": "Donate by card",
+      "sub": "Stripe processes the charge. We see only what you choose to share.",
+      "donationTypeLabel": "Donation type",
+      "oneTime": "One time",
+      "monthly": "Monthly",
+      "amountLabel": "Amount",
+      "currencyLabel": "Currency",
+      "custom": "Custom",
+      "customInputAriaLabel": "Custom amount",
+      "customPlaceholder": "Amount",
+      "minNote": "Minimum gift is $5.",
+      "errInvalid": "Please enter an amount of $5 or more.",
+      "errTurnstile": "Please complete the human-check before submitting.",
+      "errNetwork": "We could not reach the server. Check your connection and try again.",
+      "cardDetailsLabel": "Card details",
+      "cardPlaceholder": "1234 1234 1234 1234",
+      "expiryPlaceholder": "MM / YY",
+      "cvcPlaceholder": "CVC",
+      "poweredByStripe": "Powered by Stripe",
+      "turnstilePrompt": "Verify you are human",
+      "turnstileMeta": "Cloudflare Turnstile, no cookies",
+      "submit": "Donate",
+      "submitDisabled": "Donations open within the week",
+      "inlineTrust": "Stripe and Cloudflare Turnstile are the only third-party services in this flow. No marketing trackers, no analytics, no Meta Pixel."
+    },
+    "trust": {
+      "heading": "Tax status",
+      "body": "Instituto Avah is a registered BC Society. We are not yet a CRA-registered charity, so donations are not currently tax-deductible. We will update this notice when charitable status is granted.",
+      "privacyBody": "We collect nothing. Stripe and Zeffy follow their own privacy policies.",
+      "privacyLink": "Read our privacy policy"
+    },
+    "tabs": {
+      "soon": "Coming soon"
+    },
+    "pixAlert": {
+      "title": "Donations temporarily via PIX only",
+      "body": "Our CNPJ is being processed by the Federal Revenue Service. In the meantime, we are receiving donations exclusively via PIX through the Vakinha platform.",
+      "keyLabel": "PIX Key",
+      "copyBtn": "Copy PIX key",
+      "copiedBtn": "PIX key copied!",
+      "footer": "The official registration of Instituto AVAH is in progress."
+    },
+    "questions": {
+      "lead": "Questions? Email",
+      "email": "seyed@kinderhorizon.org"
+    }
+  },
+  "download": {
+    "hero": {
+      "eyebrow": "Lighthouse AAC",
+      "headline": "Public beta in Q4 2026.",
+      "sub": "Lighthouse AAC is in active development. Sign up to be notified when the first families can install it.",
+      "notifyCta": "Notify me when Lighthouse AAC is ready",
+      "githubCta": "Follow on GitHub"
+    },
+    "tiers": {
+      "heading": "How Lighthouse AAC will reach families.",
+      "lede": "A child's ability to communicate should not depend on geopolitics. App stores are not neutral infrastructure; they block access in sanctioned regions and can become inaccessible during political unrest. We are building three layers of distribution so the app is available everywhere it is needed."
+    },
+    "tier1": {
+      "label": "Tier 1",
+      "subLabel": "App stores, where they are available",
+      "heading": "Apple App Store and Google Play.",
+      "body": "The default path for families in markets where these stores work. Free, signed, automatic updates.",
+      "channels": [
+        {
+          "name": "Apple App Store",
+          "platform": "iPhone, iPad"
+        },
+        {
+          "name": "Google Play Store",
+          "platform": "Android phones, tablets, Chromebooks"
+        }
+      ]
+    },
+    "tier2": {
+      "label": "Tier 2",
+      "subLabel": "Direct download, when stores are blocked",
+      "heading": "Direct APK, F-Droid, and GitHub Releases.",
+      "body": "For families in regions where Google Play and the App Store are unavailable, the app is published as a signed Android APK with a published SHA-256 checksum. F-Droid carries the open-source build for users who prefer the F-Droid catalog. GitHub Releases is the developer-facing source of truth.",
+      "channels": [
+        {
+          "name": "Direct APK",
+          "platform": "Signed Android APK with SHA-256 checksum"
+        },
+        {
+          "name": "F-Droid",
+          "platform": "Open-source Android catalog"
+        },
+        {
+          "name": "GitHub Releases",
+          "platform": "Source build per release"
+        }
+      ]
+    },
+    "tier3": {
+      "label": "Tier 3",
+      "subLabel": "Offline distribution, when there is no internet",
+      "heading": "Device-to-device sharing.",
+      "body": "Families can share the app directly between devices over Bluetooth or Wi-Fi Direct, with no internet at any step. The transfer includes the app and any imported vocabulary packs the original family chose to share. This is the path that matters in refugee camps, in rural areas with intermittent connectivity, and in regions with strict network controls.",
+      "channels": [
+        {
+          "name": "Bluetooth",
+          "platform": "Device-to-device"
+        },
+        {
+          "name": "Wi-Fi Direct",
+          "platform": "Local-network transfer"
+        }
+      ]
+    },
+    "verification": {
+      "heading": "How to verify a download.",
+      "body": "Every direct APK release ships with a SHA-256 checksum and a published signing key. We document how to compute the SHA-256 of your downloaded file and compare it to the value on this page, so you can confirm the file you have is the one we shipped. Sideloading instructions in Farsi, Arabic, Russian, and Spanish will be available at launch.",
+      "shaLabel": "SHA-256 checksum",
+      "shaPlaceholder": "Published with each release",
+      "signingKeyLabel": "Signing key fingerprint",
+      "signingKeyPlaceholder": "Published with first release"
+    },
+    "openSource": {
+      "heading": "Open source from day one.",
+      "body": "The full source code for Lighthouse AAC is released under the MIT and Apache 2.0 licenses. You can read it, build it yourself, fork it, or contribute. The default vocabulary board uses the Fitzgerald Key color system and ARASAAC symbols.",
+      "githubCta": "Read the code on GitHub",
+      "issuesCta": "File an issue or feature request"
+    }
+  },
+  "notFound": {
+    "eyebrow": "404",
+    "headline": "We could not find that page.",
+    "body": "The page you were looking for does not exist, has moved, or was never here. The home page has everything you might be looking for.",
+    "homeCta": "Back to home",
+    "donateCta": "Donate"
+  },
+  "privacy": {
+    "hero": {
+      "eyebrow": "Privacy",
+      "headline": "What we collect: nothing.",
+      "lede": "We do not run advertising. We do not sell data. We do not load third-party tracking scripts on this website. This page is the honest list of what that means in practice."
+    },
+    "lastUpdatedLabel": "Last updated",
+    "lastUpdatedValue": "April 25, 2026",
+    "collect": {
+      "heading": "What we collect: nothing.",
+      "body": "No analytics. No cookies, except a small locale preference cookie set when you use the language switcher in the header. No fingerprinting. No third-party trackers.",
+      "explicitIntro": "Specifically, this site does not load:",
+      "explicitItems": [
+        "Meta Pixel or any other Meta advertising tag",
+        "Google Analytics, Google Tag Manager, or any Google site tag",
+        "LinkedIn Insight Tag",
+        "TikTok Pixel or X (Twitter) Pixel",
+        "Hotjar, Amplitude, Mixpanel, Segment, PostHog, or comparable behavioural analytics"
+      ],
+      "gclidNote": "If you arrive on this site by clicking a Google Search Ad, your browser includes a Google click ID in the URL. We record that click ID in a first-party cookie for up to 90 days so that, if you later donate, we can let Google know the ad worked. No Google tracking script runs on this site, and the cookie is not shared with any third party other than Google's offline conversion API at donation time.",
+      "firstPartyAnalyticsNote": "We do load one first-party measurement script: Cloudflare Web Analytics. It is cookieless, does not fingerprint, does not collect personal data, and does not share data with any third party. It tells us which pages are viewed and from which countries. We use it because Cloudflare already hosts the site, and because we need a way to learn what families find useful. The beacon is served from static.cloudflareinsights.com."
+    },
+    "providers": {
+      "heading": "What our infrastructure providers see.",
+      "intro": "We use a small set of providers to keep the site online and the donation flow working. Each follows their own privacy policy, and we link them honestly so you can audit them yourself.",
+      "items": [
+        {
+          "name": "Cloudflare",
+          "role": "Hosts this website. Their edge logs include standard request data (your IP address, user agent, the path you requested) for security and abuse prevention, retained briefly per their privacy policy.",
+          "policyUrl": "https://www.cloudflare.com/privacypolicy/"
+        },
+        {
+          "name": "Cloudflare Web Analytics",
+          "role": "First-party page-view measurement. Cookieless, no fingerprinting, no personal data, no sharing with third parties. Tells us which pages are viewed and from which countries.",
+          "policyUrl": "https://www.cloudflare.com/web-analytics/"
+        },
+        {
+          "name": "Stripe",
+          "role": "Processes card donations when you give by card. Stripe sees your payment information and applies their global privacy policy.",
+          "policyUrl": "https://stripe.com/privacy"
+        },
+        {
+          "name": "Zeffy",
+          "role": "Processes fee-free donations when you choose Zeffy. Their privacy policy applies to that transaction.",
+          "policyUrl": "https://www.zeffy.com/en-CA/privacy-policy"
+        },
+        {
+          "name": "Google Workspace",
+          "role": "Handles email at our @kinderhorizon.org domain. If you write to us, your message is stored in Workspace and their privacy policy applies.",
+          "policyUrl": "https://policies.google.com/privacy"
+        }
+      ]
+    },
+    "children": {
+      "heading": "Children.",
+      "body": "The Foundation exists to build communication tools for non-verbal children, but this website is not directed at children and does not knowingly collect data from children. Lighthouse AAC, the app itself, runs entirely on the family's device. The app does not transmit child data, does not require an account, and does not include analytics."
+    },
+    "contact": {
+      "heading": "Contact.",
+      "body": "For any privacy question, write to seyed@kinderhorizon.org. We answer every privacy email personally.",
+      "cta": "Email seyed@kinderhorizon.org"
+    }
+  }
+}

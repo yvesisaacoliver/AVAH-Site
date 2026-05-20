@@ -1,0 +1,22 @@
+#!/usr/bin/env bash
+#
+# Pre-commit hook: run brand-voice checks before every commit.
+#
+# To enable, run once after cloning:
+#   git config core.hooksPath .githooks
+#
+# This is intentionally framework-free (no husky) to keep the dependency
+# tree lean for a marketing-site repo.
+
+set -euo pipefail
+
+ROOT="$(git rev-parse --show-toplevel)"
+cd "$ROOT"
+
+if [ -x "scripts/no-em-dash.sh" ]; then
+  bash scripts/no-em-dash.sh
+fi
+
+if [ -x "scripts/no-secrets.sh" ]; then
+  bash scripts/no-secrets.sh
+fi
